@@ -1,0 +1,33 @@
+\begin{thebibliography}{5}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Zotter and Frank(2019)}]{zotter2019ambisonics}
+Zotter, F. and Frank, M., \emph{Ambisonics: A Practical 3D Audio Theory for
+  Recording, Studio Production, Sound Reinforcement, and Virtual Reality},
+  Springer, 2019.
+
+\bibitem[{Wright(2005)}]{wright2005osc}
+Wright, M., \enquote{Open Sound Control: an enabling technology for musical
+  networking,} \emph{Organised Sound}, 10(3), 2005.
+
+\bibitem[{CNMAT(2024)}]{osc_spec}
+CNMAT, \enquote{Open Sound Control Specification 1.0,} 2024,
+  \url{https://opensoundcontrol.stanford.edu/spec-1_0.html}.
+
+\bibitem[{Rudrich et~al.(2019)Rudrich, Zotter, Grill, and
+  Huber}]{rudrich2019iem}
+Rudrich, D., Zotter, F., Grill, S., and Huber, M., \enquote{IEM Plug-in Suite,}
+  in \emph{University of Music and Performing Arts, Graz}, 2019.
+
+\bibitem[{Yagunova et~al.(2021)Yagunova, Poletti, and
+  Teal}]{yagunova2021ambisonics}
+Yagunova, Y., Poletti, M., and Teal, P., \enquote{Ambisonics and Sonic
+  Simulation in Virtual Reality,} in \emph{2021 IEEE Region 10 Conference
+  (TENCON)}, 2021.
+
+\end{thebibliography}
